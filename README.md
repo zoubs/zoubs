@@ -5,7 +5,7 @@
 - 🎓 &nbsp; I'm a M.Sc.student of Department of [Computer Science and Technology](https://cs.nuaa.edu.cn/) in Nanjing University of Aerounautics and Astronautics and a member of [Parnec Group](https://parnec.nuaa.edu.cn/).
 - 🔭 &nbsp; I’m currently learning Weakly Supervised Machine Learning.
 - 🤔 &nbsp; My research interests include Partial Label Learning, Noisy Label Learning and Reinforcement Learning.
-- 💼 &nbsp; Internship at Meituan in 2020, Back End Development, CAT group.
+- 💼 &nbsp; Internship at Meituan in 2020, Back End Development, [CAT group](https://github.com/dianping/cat).
 
 <a href="https://github.com/zoubs">
 <img
